@@ -13,7 +13,7 @@ Os seguintes algoritmos foram utilizados no desenvolvimento dos projetos:
 3. **Heap Sort**
 4. **Programação Dinâmica**
 5. **Busca em Cadeias**
-6. **Backtracking**
+6. **Compressão**
 
 ## 🎯 Objetivo
 
